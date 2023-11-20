@@ -55,4 +55,6 @@ Thank you for visiting my profile! I look forward to collaborating and learning 
 [![Github](https://img.shields.io/github/followers/matecauci15?label=Follow&style=social)](https://github.com/matecauci15)
 ![](https://visitor-badge.laobi.icu/badge?page_id=matecauci15)
 
+<!-- Markdown -->
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
