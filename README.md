@@ -4,11 +4,8 @@
 
 Hello! I'm Mateo Caucino, a passionate 22-year-old full stack developer from Argentina. I initially started my studies as a business administrator, gaining a solid foundation in management and organization. However, my quest for knowledge and desire to explore new areas led me to immerse myself in the fascinating world of development.
 
-## Technologies and Languages I Master 🚀
-
+## 🧰 Languages and Tools 🚀:
 Throughout my journey, I've gained experience in various technologies and languages, including:
-
-## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
