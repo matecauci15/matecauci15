@@ -17,11 +17,7 @@ Throughout my journey, I've gained experience in various technologies and langua
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-- HTML, CSS, JavaScript
-- React and Redux
-- Node.js
-- PostgreSQL and Sequelize
-- Python
+
 
 ## Goals and Areas of Interest 🎯
 
