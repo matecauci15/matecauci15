@@ -1,13 +1,7 @@
 # <p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=27&duration=4000&pause=900&color=FFFFFF&random=false&width=630&height=46&lines=+Hi+there+%F0%9F%91%8B+;Welcome+to+My+Full+Stack+Dev+Profile++%F0%9F%9A%80+%F0%9F%92%BB)](https://git.io/typing-svg)
 </p>
 
-<p align="center">
-  [![Github](https://img.shields.io/github/followers/matecauci15?label=Follow&style=social)](https://github.com/matecauci15)
-</p>
 
-<p align="center">
-  ![Github](https://visitor-badge.laobi.icu/badge?page_id=matecauci15)
-</p>
 
 I'm Mateo Caucino, a passionate 22-year-old full-stack web developer from Argentina. During the pandemic, I seized the opportunity to dive into the exciting world of development, so I start having interest in learning new languages and technologies. After establishing myself as a web developer, my next goal is to venture into the real mobile app development.
 
