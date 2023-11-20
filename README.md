@@ -42,3 +42,5 @@ Thank you for visiting my profile! I look forward to collaborating and learning 
 ![](https://visitor-badge.laobi.icu/badge?page_id=matecauci15)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=matecauci15&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
