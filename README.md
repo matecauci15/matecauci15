@@ -9,6 +9,14 @@
 
 I'm Mateo Caucino, a passionate 22-year-old full-stack web developer from Argentina. During the pandemic, I seized the opportunity to dive into the exciting world of development, so I start having interest in learning new languages and technologies. After establishing myself as a web developer, my next goal is to venture into the real mobile app development.
 
+const mateo = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python],
+  tools: [React, Redux, Node, Styled-Components],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+
 ## 🧰 Languages and Tools 🚀:
 Throughout my journey, I've gained experience in various technologies and languages, including:
 <p align="center">
