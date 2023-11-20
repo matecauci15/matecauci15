@@ -1,4 +1,7 @@
-# Hi there 👋
+# Hi there 👋 
+[![Github](https://img.shields.io/github/followers/matecauci15?label=Follow&style=social)](https://github.com/matecauci15)
+![](https://visitor-badge.laobi.icu/badge?page_id=matecauci15)
+
 
 # Welcome to My Full Stack Developer Profile 
 
@@ -47,8 +50,6 @@ Here, you can find some of the projects I've worked on. For more details, visit 
 
 Thank you for visiting my profile! I look forward to collaborating and learning with the amazing GitHub developer community.
 
-[![Github](https://img.shields.io/github/followers/matecauci15?label=Follow&style=social)](https://github.com/matecauci15)
-![](https://visitor-badge.laobi.icu/badge?page_id=matecauci15)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=matecauci15&show_icons=true&theme=tokyonight)
 
