@@ -1,5 +1,5 @@
 # Hi there 👋 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=28&duration=4000&pause=200&color=FFFFFF&random=false&width=520&height=60&lines=+Hi+there+%F0%9F%91%8B+;Welcome+to+My+Full+Stack+Dev+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=28&duration=4000&pause=200&color=FFFFFF&random=false&width=520&height=60&lines=+Hi+there+%F0%9F%91%8B+;Welcome+to+My+Full+Stack+Dev+Profile++%F0%9F%9A%80+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+Hi+there+%F0%9F%91%8B+;Welcome+to+My+Full+Stack+Dev+Profile)](https://git.io/typing-svg)
 
