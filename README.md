@@ -34,7 +34,8 @@ My primary goal is to continue learning and growing as a developer. Currently, I
  <a href="https://www.linkedin.com/in/mateo-caucino/" target="_blank" rel="noopener noreferrer"> <img src="![image](https://github.com/matecauci15/matecauci15/assets/107882167/df433863-98bf-45cb-88b2-410fcda9823f)
 " alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
  
- <a href="mailto:matecaucino@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:matecaucino@gmail.com"> <img src="![image](https://github.com/matecauci15/matecauci15/assets/107882167/796798ce-022b-45f0-9206-7cd18956417c)
+" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## Featured Projects ✨
