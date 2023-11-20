@@ -35,7 +35,7 @@ My primary goal is to continue learning and growing as a developer. Currently, I
 " alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
  
  <a href="mailto:matecaucino@gmail.com"> <img src="![image](https://github.com/matecauci15/matecauci15/assets/107882167/796798ce-022b-45f0-9206-7cd18956417c)
-" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## Featured Projects ✨
