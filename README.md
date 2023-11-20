@@ -31,7 +31,7 @@ My primary goal is to continue learning and growing as a developer. Currently, I
 
 <p align="center">
  <a href="https://github.com/matecauci15" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/mateo-caucino/" target="_blank" rel="noopener noreferrer"> <img src="![image](https://github.com/matecauci15/matecauci15/assets/107882167/db86418e-bec8-48ae-91a5-48e46b924ce7)
+ <a href="https://www.linkedin.com/in/mateo-caucino/" target="_blank" rel="noopener noreferrer"> <img src="(https://github.com/matecauci15/matecauci15/assets/107882167/db86418e-bec8-48ae-91a5-48e46b924ce7)
 " alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
  
  <a href="mailto:matecaucino@gmail.com"> <img src="![image](https://github.com/matecauci15/matecauci15/assets/107882167/796798ce-022b-45f0-9206-7cd18956417c)
