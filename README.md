@@ -1,5 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=28&duration=4000&pause=200&color=FFFFFF&random=false&width=630&height=60&lines=+Hi+there+%F0%9F%91%8B+;Welcome+to+My+Full+Stack+Dev+Profile++%F0%9F%9A%80+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+# <p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=28&duration=4000&pause=200&color=FFFFFF&random=false&width=630&height=60&lines=+Hi+there+%F0%9F%91%8B+;Welcome+to+My+Full+Stack+Dev+Profile++%F0%9F%9A%80+%F0%9F%9A%80)](https://git.io/typing-svg)
+</p>
 Hello! I'm Mateo Caucino, a passionate 22-year-old full stack developer from Argentina. I initially started my studies as a business administrator, gaining a solid foundation in management and organization. However, my quest for knowledge and desire to explore new areas led me to immerse myself in the fascinating world of development.
 
 ## 🧰 Languages and Tools 🚀:
