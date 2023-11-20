@@ -29,13 +29,12 @@ My primary goal is to continue learning and growing as a developer. Currently, I
 ## ✉️ Find me on:
 ## Contact 📫
 
-<p align=center>
-
-
-<a>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/matecauci15)</a>
-<a>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mateo-caucino/)</a>
-<a>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/matecaucino)</a>
+<p style="text-align:center;">
+  <a href="https://github.com/matecauci15"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"></a>
+  <a href="https://www.linkedin.com/in/mateo-caucino/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"></a>
+  <a href="https://twitter.com/matecaucino"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40"></a>
 </p>
+
 
 
 ## Featured Projects ✨
