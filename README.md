@@ -26,8 +26,6 @@ My primary goal is to continue learning and growing as a developer. Currently, I
 - **Bootstrap:** Add frontend design and development skills using this popular framework.
 
 ## ✉️ Find me on:
-## Contact 📫
-
 <p text-align:center;">
   <a href="https://github.com/matecauci15"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"></a>
   <a href="https://www.linkedin.com/in/mateo-caucino/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"></a>
@@ -51,7 +49,8 @@ Thank you for visiting my profile! I look forward to collaborating and learning 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matecauci15&theme=tokyonight)
 
-
+  [![Github](https://img.shields.io/github/followers/matecauci15?label=Follow&style=social)](https://github.com/matecauci15)
+  ![Github](https://visitor-badge.laobi.icu/badge?page_id=matecauci15)
 
 <!-- Markdown -->
 
