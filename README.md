@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# Welcome to My Full Stack Developer Profile 👋
+# Welcome to My Full Stack Developer Profile 
 
 Hello! I'm Mateo Caucino, a passionate 22-year-old full stack developer from Argentina. I initially started my studies as a business administrator, gaining a solid foundation in management and organization. However, my quest for knowledge and desire to explore new areas led me to immerse myself in the fascinating world of development.
 
