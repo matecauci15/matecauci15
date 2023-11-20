@@ -29,11 +29,11 @@ My primary goal is to continue learning and growing as a developer. Currently, I
 ## ✉️ Find me on:
 ## Contact 📫
 
-<p align-items=center>
+<p align=center>
  <a href="mailto:matecaucino@gmail.com"> <img src="![image](https://github.com/matecauci15/matecauci15/assets/107882167/796798ce-022b-45f0-9206-7cd18956417c)
 " alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/matecauci15)  
+<a>[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/matecauci15)</a>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mateo-caucino/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/matecaucino)  
 </p>
