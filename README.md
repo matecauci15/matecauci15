@@ -3,9 +3,10 @@
 
 <a>
 [![Github](https://img.shields.io/github/followers/matecauci15?label=Follow&style=social)](https://github.com/matecauci15)
+</a>
+<a>
 ![](https://visitor-badge.laobi.icu/badge?page_id=matecauci15)
 </a>
-
 I'm Mateo Caucino, a passionate 22-year-old full-stack web developer from Argentina. During the pandemic, I seized the opportunity to dive into the exciting world of development, so I start having interest in learning new languages and technologies. After establishing myself as a web developer, my next goal is to venture into the real mobile app development.
 
 ## 🧰 Languages and Tools 🚀:
