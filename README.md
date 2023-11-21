@@ -57,18 +57,22 @@ Here, you can find some of the projects I've worked on. For more details, visit 
 2. [Project 2](link_to_project_2)
 3. [Project 3](link_to_project_3)
 
-Thank you for visiting my profile! I look forward to collaborating and learning with the amazing GitHub developer community.
+## 📊 Stats
 
-<div align="center">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=matecauci15&show_icons=true&theme=tokyonight)
+</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matecauci15&theme=tokyonight)
-</div>
-
+</br>
+</br>
 
 
 <!-- Markdown -->
 <div align="center">
+<p>Random dev joke for you 😂🤪:</p>
   
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
+
+Thank you for visiting my profile! I look forward to collaborating and learning with the amazing GitHub developer community!!!
+
