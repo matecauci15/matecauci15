@@ -45,9 +45,8 @@ My primary goal is to continue learning and growing as a developer. Currently, I
 
 Here, you can find some of the projects I've worked on. For more details, visit my GitHub profile.
 
-1. [LoCanjeamos](https://locanjeamos.com.ar)
-2. [Project 2](link_to_project_2)
-3. [Project 3](link_to_project_3)
+[LoCanjeamos](https://locanjeamos.com.ar)
+
 
 ## 📊 Stats
 
