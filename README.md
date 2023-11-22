@@ -37,7 +37,7 @@ My primary goal is to continue learning and growing as a developer. Currently, I
   <a href="https://github.com/matecauci15"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"></a>
   <a href="https://www.linkedin.com/in/mateo-caucino/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"></a>
   <a href="https://twitter.com/matecaucino"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40"></a>
-   <a mailto="matecaucino@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="twitter" height="40"></a>
+   <a href="mailto:matecaucino@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="twitter" height="40"></a>
 </div>
 
 
